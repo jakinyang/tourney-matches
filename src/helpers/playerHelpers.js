@@ -1,0 +1,7 @@
+const preparePlayerData = () => {
+  
+}
+
+const addWinsToPlayers = () => {
+
+}
